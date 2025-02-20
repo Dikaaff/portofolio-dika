@@ -85,7 +85,6 @@ const Portfolio = () => {
 </section>
 
 
-      {/* Contact Section */}
       <section className="hidden-section py-24 px-6 bg-black text-center">
         <h2 className="text-4xl font-bold mb-12">Let's Connect</h2>
         <div className="flex justify-center space-x-8">
